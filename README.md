@@ -11,9 +11,17 @@ Tools & Technologies-
 -Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Dataset-
+Format: Excel file (.xlsx)
+Description: Contains patient medical records like:
 
--Pima Indians Diabetes Dataset
-(Contains medical information like glucose level, blood pressure, BMI, etc.)
+-Glucose Level
+-Blood Pressure
+-BMI
+-Age
+-Insulin
+-Pregnancies
+-Skin Thickness
+-Outcome (Diabetic/Non-Diabetic)
 
 Workflow-
 

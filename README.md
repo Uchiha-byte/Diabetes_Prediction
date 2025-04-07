@@ -3,43 +3,36 @@ Diabetes Prediction using Machine Learning
 
 This project was developed during my internship at System Tron. The main objective of this project is to predict whether a person is diabetic or not using Machine Learning algorithms.
 
-Tools & Technologies
-Python
+Tools & Technologies-
 
-Google Colab
+-Python
+-Google Colab
+-Machine Learning (Classification Models)
+-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Machine Learning (Classification Models)
+Dataset-
 
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-Dataset
-Pima Indians Diabetes Dataset
+-Pima Indians Diabetes Dataset
 (Contains medical information like glucose level, blood pressure, BMI, etc.)
 
-Workflow
-Data Collection
+Workflow-
 
-Data Preprocessing
+-Data Collection
+-Data Preprocessing
+-Exploratory Data Analysis (EDA)
+-Model Building
+-Model Evaluation
+-Prediction
 
-Exploratory Data Analysis (EDA)
+Algorithms Used-
 
-Model Building
+-Logistic Regression
+-Decision Tree
+-Random Forest
+-K-Nearest Neighbors (KNN)
 
-Model Evaluation
-
-Prediction
-
-Algorithms Used
-Logistic Regression
-
-Decision Tree
-
-Random Forest
-
-K-Nearest Neighbors (KNN)
-
-Output
+Output:
 Model predicts whether a person is diabetic or not based on input data.
 
-Conclusion
+Conclusion:
 This project helped me understand the practical implementation of Machine Learning algorithms and how data preprocessing & model selection plays a key role in prediction accuracy.
